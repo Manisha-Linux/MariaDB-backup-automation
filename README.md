@@ -66,28 +66,28 @@ Project screenshots are available in the screenshots folder.
 ## Screenshots
 
 ### MariaDB Package Installation
-![Installation](screenshots/Mariadb%20Package%20Installation.png)
+![Installation](Mariadb%20Package%20Installation.png)
 
 ### Create And Show Database
-![Database](screenshots/Create%20And%20Show%20Database.png)
+![Database](Create%20And%20Show%20Database.png)
 
 ### Create Table
-![Table](screenshots/Create%20Table.png)
+![Table](Create%20Table.png)
 
 ### Create Backup File
-![Backup](screenshots/Create%20Backup%20File.png)
+![Backup](Create%20Backup%20File.png)
 
 ### Backup Script
-![Script](screenshots/Backup%20Script.png)
+![Script](Backup%20Script.png)
 
 ### Backup Files
-![Files](screenshots/Backup%20Files.png)
+![Files](Backup%20Files.png)
 
 ### Crontab Edit File
-![Crontab](screenshots/Crontab%20Edit%20File.png)
+![Crontab](Crontab%20Edit%20File.png)
 
 ### Cronjob Configuration
-![Cronjob](screenshots/Cronjob%201.png)
+![Cronjob](Cronjob%201.png)
 
 ### Cronjob Complete
-![Complete](screenshots/Cronjob%20Complete.png)
+![Complete](Cronjob%20Complete.png)
